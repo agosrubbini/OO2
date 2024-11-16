@@ -1,0 +1,6 @@
+Sea una empresa que paga sueldos a sus empleados, los cuales están organizados en tres tipos: Temporarios, Pasantes y Planta. El sueldo se compone de 3 elementos: sueldo básico, adicionales y descuentos. 
+...
+Tareas:
+Diseñe la jerarquía de Empleados de forma tal que cualquier empleado puede responder al mensaje #sueldo. 
+Desarrolle los test cases necesarios para probar todos los casos posibles.
+Implemente en Java.
