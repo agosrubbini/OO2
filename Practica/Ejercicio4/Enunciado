@@ -1,6 +1,8 @@
-Sea una empresa que paga sueldos a sus empleados, los cuales están organizados en tres tipos: Temporarios, Pasantes y Planta. El sueldo se compone de 3 elementos: sueldo básico, adicionales y descuentos. 
--- ver cuadernillo --
+Ejercicio 4: Cálculo de sueldos
+Sea una empresa que paga sueldos a sus empleados, los cuales están organizados en tres tipos: Temporarios, Pasantes y Planta. 
+El sueldo se compone de 3 elementos: sueldo básico, adicionales y descuentos. 
+--Ver Cuadernillo--
 Tareas:
-Diseñe la jerarquía de Empleados de forma tal que cualquier empleado puede responder al mensaje #sueldo. 
-Desarrolle los test cases necesarios para probar todos los casos posibles.
-Implemente en Java.
+1- Diseñe la jerarquía de Empleados de forma tal que cualquier empleado puede responder al mensaje #sueldo. 
+2- Desarrolle los test cases necesarios para probar todos los casos posibles.
+3- Implemente en Java.
